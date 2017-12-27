@@ -10,5 +10,5 @@ equivalent to:
 ```js
 import * as myName from 'my-file'
 
-export myName
+export { myName }
 ```
